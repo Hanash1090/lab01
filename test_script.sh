@@ -3,7 +3,7 @@
 mkdir generator
 cd generator
 cmake -G "Unix Makefiles" ..
-make lab02-tests
+make lab01-tests
 #status=$?
 #./lab02-tests
 #[ $? -eq 0 ] || exit $?
