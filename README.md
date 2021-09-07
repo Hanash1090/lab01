@@ -33,7 +33,7 @@ This assignment simply covers the techniques for declaring and using arrays in C
 
 ## Getting Started
 
-After accepting this assignment with the provided [GitHub Classroom Assignment link](https://classroom.github.com/a/WyKrW_H8), clone this repository. Once cloned, create a new branch named `develop` within which to do your work. Ultimately, you will create a pull request that seeks to merge your `develop` branch into your `trunk` branch.
+After accepting this assignment with the provided [GitHub Classroom Assignment link](https://classroom.github.com/a/o4JaLMO0), clone this repository. Once cloned, create a new branch named `develop` within which to do your work. Ultimately, you will create a pull request that seeks to merge your `develop` branch into your `trunk` branch.
 
 To create your new branch and push it to GitHub, issue the following `git` commands:
 
@@ -74,15 +74,15 @@ Additional preliminary steps you may want to take:
 
 ### Part 1: Declaring Arrays
 
-Here we ...
+Here we'll follow along with the instructor to declare an array.
 
 ### Part 2: Examples using Arrays
 
-Here we ...
+Here we'll follow along with the instructor to see some examples of using an array.
 
 ### Part 3: Passing Arrays to Functions
 
-Here we ...
+Here we'll follow along with the instructor to see how to pass an array to a function.
 
 As a final step, log onto GitHub and make sure that your pull request has all your commits. If it doesn't, make a final commit and/or push your last commit to GitHub. Also, make sure that `professordaehn`, `lakshmidivyavaddineni` and `SunandaGuha` are listed as a Reviewers on your pull request. (It may be that only `professordaehn` is listed; if that is the case, manually add the GA usernames too. While you're at it, assign the pull request to yourself.)
 
